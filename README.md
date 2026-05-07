@@ -60,9 +60,15 @@
 
 > *(Replace these with your real projects!)*
 
-### 🔬 [Project Name 1](https://github.com/your-username/project-1)
-Brief description of what this project does, the problem it solves, and key technologies used.  
-`Python` `PyTorch` `Data Pipeline`
+### 🔬 🧠 Tabular ML Pipeline(https://github.com/pradeepkumarkommuri/tabular-ml-pipeline/)
+
+> A production-style end-to-end machine learning pipeline for tabular data — built with Python, PyTorch, and modular data engineering principles.
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![CI](https://img.shields.io/github/actions/workflow/status/pradeepkumarkommuri/tabular-ml-pipeline/ci.yml?style=flat-square&label=CI)](https://github.com/pradeepkumarkommuri/tabular-ml-pipeline/actions)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000?style=flat-square)](https://github.com/psf/black)
 
 ### 📈 [Project Name 2](https://github.com/your-username/project-2)
 Brief description of what this project does, the problem it solves, and key technologies used.  
